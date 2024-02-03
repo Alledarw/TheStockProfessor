@@ -17,5 +17,3 @@ Why the sudden price drop? With every price change, I will also retrieve the lat
 
 
 ## Remember to get the relevant API keys and tokens to make the bot function properly. ##
-## Made by Alexander Darwiche 2024 ##
-## FOR COMMERCIAL USE PLEASE CONTACT ME ##
